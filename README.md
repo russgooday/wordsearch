@@ -7,4 +7,6 @@ The script included a very basic jquery-like framework I created to handle selec
 
 I did refactor the code about 5 years ago and with the knowledge I have attained since then it is certainly a candidate for another refactoring and some modernising.
 
+Note: I have put it through standardJS, just for a bit of a clean-up.
+
 [Demo here](https://rpgdigital.co.uk/development/wordsearch/index.html)
